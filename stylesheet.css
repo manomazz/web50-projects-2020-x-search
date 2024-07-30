@@ -1,0 +1,90 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#pika{
+    background-color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+#bazinga{
+    color:white;
+    text-align:center;
+    font-style:arial;
+    }
+.yupper{
+    width:300px;
+    height:20px;
+    border-radius: 300px;
+    border-style: solid;
+    border-color: black;
+    padding: 10px;
+    margin-top: 15px;
+    }
+.bonk{
+    cursor:pointer;
+    margin-top: 10px;
+    padding: 3px;
+    }
+
+.pic{
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+     margin-top: 20px;
+    }
+#eight{
+    text-align: center;
+}
+.luffy{
+ text-align: right;
+ cursor: pointer;
+}
+
+#yup{
+    font-family: Arial, Helvetica, sans-serif; 
+}
+#gamble{
+    text-align: center;
+    margin-top: 10px
+}
+.pic{
+    display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+     margin-top: 20px;
+}
+.ballin{
+    width: 300px;
+    height:20px;
+    border-radius: 300px;
+    border-style: solid;
+    border-color: black;
+    padding: 10px;
+}
+.hard{
+    padding: 3px;
+}
+
+#h3h3{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.button{
+border-color:rgb(51, 148, 212);
+margin: auto;
+border-color: black;
+width: 300px;
+color: white;
+padding: 5px;
+text-align: center;
+background-color: rgb(51, 148, 212);
+}
+#goober{
+    margin: 75px;
+    font-size: larger;
+}
+#maind{
+    margin-top: 50px;
+}
